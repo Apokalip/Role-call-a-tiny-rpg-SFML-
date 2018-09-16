@@ -1,0 +1,59 @@
+﻿  base_npc.cpp
+  bullet.cpp
+  enemy.cpp
+  entity.cpp
+  entity_manager.cpp
+  game_over.cpp
+c:\users\kioshishi\desktop\rpg\role call\game_over.cpp(13): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  lives.cpp
+  main.cpp
+  main_game.cpp
+c:\users\kioshishi\desktop\rpg\role call\main_game.cpp(23): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  main_guy.cpp
+  main_menu.cpp
+c:\users\kioshishi\desktop\rpg\role call\main_menu.cpp(15): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\kioshishi\desktop\rpg\role call\main_menu.cpp(19): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\kioshishi\desktop\rpg\role call\main_menu.cpp(23): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  map.cpp
+c:\users\kioshishi\desktop\rpg\role call\map.cpp(93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kioshishi\desktop\rpg\role call\map.cpp(98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kioshishi\desktop\rpg\role call\map.cpp(103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kioshishi\desktop\rpg\role call\map.cpp(108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  score.cpp
+  speech.cpp
+  win_screen.cpp
+c:\users\kioshishi\desktop\rpg\role call\win_screen.cpp(13): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Generating Code...
+  Role Call.vcxproj -> C:\Users\Kioshishi\Desktop\rpg\Debug\Role Call.exe
